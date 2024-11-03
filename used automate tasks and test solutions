@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "Enter Your Name : "
+
+read name
+
+echo "Hello $name ! Welcome to our Geeks for Geeks site."
+$ chmod +x ./welcome.sh
+$ ./welcome.sh
